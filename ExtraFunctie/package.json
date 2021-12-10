@@ -22,8 +22,9 @@
    "displayName": "example",
    "description": "core-example with settings for Amsterdam",
    "path": "Samples~/runningcoordinates"
-},
+}
+],
   "dependencies": {
-	  "nl.netherlands3d.core"
+	  "nl.netherlands3d.core" : "1.0.0"
   }
 }
