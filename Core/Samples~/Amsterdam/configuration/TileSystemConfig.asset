@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 51778204f3d44ca4786c9128e62cc456, type: 3}
-  m_Name: LocationOfLiveDAta
+  m_Name: TileSystemConfig
   m_EditorClassIdentifier: 
-  webserverRootPath: https://acc.3d.amsterdam.nl/web/data/develop/binary2/
+  webserverRootPath: https://3d.amsterdam.nl/web/data/

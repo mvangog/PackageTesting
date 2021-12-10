@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f390396727890c4dbf31139e7aa097a, type: 3}
-  m_Name: Amsterdam
+  m_Name: coordinatesConfig
   m_EditorClassIdentifier: 
   RelativeCenterRD:
-    x: 121000
-    y: 487000
+    x: 0
+    y: 0
   BottomLeftRD:
-    x: 109000
-    y: 474000
+    x: 0
+    y: 0
   TopRightRD:
-    x: 141000
-    y: 501000
+    x: 0
+    y: 0
   zeroGroundLevelY: 43
   webserverRootPath: https://3d.amsterdam.nl/web/data/
