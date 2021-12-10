@@ -1,0 +1,16 @@
+{
+    "name": "nl.netherlands3d.runningcoordinates",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dd3c470b1eaf4054fb109968289f987e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
