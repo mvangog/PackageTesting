@@ -9,7 +9,6 @@ namespace Netherlands3D.UI
 {
     public class RunningCoordinates : MonoBehaviour
     {
-
         public Text textfield;
         // Start is called before the first frame update
 
@@ -18,23 +17,6 @@ namespace Netherlands3D.UI
         {
             Vector3RD coordinate = CoordConvert.UnitytoRD(Netherlands3D.LayerSystem.Config.activeCamera.transform.position);
             textfield.text = ($" x: {coordinate.x} y: {coordinate.x} ");
-        }
-        private void Start()
-        {
-            Netherlands3D.Events.AddAction("CoordinateColor", new System.Action(Toggle));
-        }
-
-        public void Toggle()
-        {
-            if (textfield.color==Color.blue)
-            {
-                textfield.color = Color.green;
-            }
-            else
-            {
-                textfield.color = Color.blue;
-            }
-            
         }
     }
 }
