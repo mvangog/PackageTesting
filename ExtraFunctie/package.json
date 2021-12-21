@@ -25,6 +25,6 @@
 }
 ],
 	"dependencies":{
-	"nl.netherlands3d.core": "https://github.com/mvangog/PackageTesting.git?path=/Core"
+	"nl.netherlands3d.core": "https://github.com/mvangog/PackageTesting.git?path=/Core#1.1.3"
 	}
 }
