@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "unity": "2020.3",
   "description": "shows the position of the camera controlling the tilehandler in RD-coordinates",
-  "type": "library",
+  "type": "module",
   "keywords": [
     "3d",
     "geojson",
@@ -17,11 +17,15 @@
     "name": "3D Amsterdam Team",
     "url": "https://3d.amsterdam.nl"
   },
-  "samples":[
-  {
-   "displayName": "example",
-   "description": "core-example with settings for Amsterdam",
-   "path": "Samples~/runningcoordinates"   
-}
-]
+  "samples": [
+    {
+      "displayName": "example",
+      "description": "core-example with settings for Amsterdam",
+      "path": "Samples~/runningcoordinates"
+    }
+  ],
+  "hideInEditor": false,
+  "dependencies": {
+    "nl.netherlands3d.core": "1.0.0"
+  }
 }
