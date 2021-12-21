@@ -21,10 +21,10 @@
   {
    "displayName": "example",
    "description": "core-example with settings for Amsterdam",
-   "path": "Samples~/runningcoordinates"
-},
-"dependencies":{
-"nl.netherlands3d.core": "https://github.com/mvangog/PackageTesting.git"
+   "path": "Samples~/runningcoordinates"   
 }
-]
+],
+	"dependencies":{
+	"nl.netherlands3d.core": "https://github.com/mvangog/PackageTesting.git"
+	}
 }
