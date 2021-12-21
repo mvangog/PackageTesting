@@ -1,6 +1,6 @@
 {
 "publishConfig": {
-   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+   "@mvangog:registry": "https://npm.pkg.github.com"
  },
   "name": "nl.netherlands3d.core",
   "displayName": "Netherlands 3D core",
