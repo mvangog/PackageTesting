@@ -1,4 +1,7 @@
 {
+"publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ },
   "name": "nl.netherlands3d.core",
   "displayName": "Netherlands 3D core",
   "version": "1.1.3",
